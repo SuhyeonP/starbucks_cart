@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16553b7-3fef-4f9e-bcba-3fc88cf43a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/reduxHook.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/useInput.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Select/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/slice/authSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/saga/menu.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/mysql/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/hooks/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/layouts/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layouts/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/Main/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/saga/rootSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/saga/rootSaga.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/hooks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -88,6 +89,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/client/src/hooks" />
       <recent name="$PROJECT_DIR$/client" />
     </key>
@@ -107,6 +109,7 @@
       <workItem from="1622175970313" duration="241000" />
       <workItem from="1622181364989" duration="1991000" />
       <workItem from="1622185012690" duration="1912000" />
+      <workItem from="1622347608085" duration="654000" />
     </task>
     <servers />
   </component>
