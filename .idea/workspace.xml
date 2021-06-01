@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16553b7-3fef-4f9e-bcba-3fc88cf43a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/saga/menu.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/mysql/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Login/GoogleLogin.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/saga/rootSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/saga/rootSaga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +102,8 @@
       <workItem from="1622175970313" duration="241000" />
       <workItem from="1622181364989" duration="1991000" />
       <workItem from="1622185012690" duration="1912000" />
-      <workItem from="1622347608085" duration="654000" />
+      <workItem from="1622347608085" duration="904000" />
+      <workItem from="1622509889049" duration="317000" />
     </task>
     <servers />
   </component>
