@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16553b7-3fef-4f9e-bcba-3fc88cf43a4e" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/client/src/hooks/reduxHook.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/hooks/useInput.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/pages/Select/index.tsx" afterDir="false" />
@@ -14,6 +15,9 @@
       <change beforePath="$PROJECT_DIR$/client/src/layouts/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layouts/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/Main/index.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.ts" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +111,12 @@
       <workItem from="1622175970313" duration="241000" />
       <workItem from="1622181364989" duration="1991000" />
       <workItem from="1622185012690" duration="1912000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1622347608085" duration="904000" />
+      <workItem from="1622509889049" duration="534000" />
+      <workItem from="1622942316106" duration="1003000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
