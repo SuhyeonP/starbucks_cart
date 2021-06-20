@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16553b7-3fef-4f9e-bcba-3fc88cf43a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/saga/rootSaga.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/slice/starbucks.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+<<<<<<< Updated upstream
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/reduxHook.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/useInput.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Select/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/slice/authSlice.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/utils/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/webpack.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/webpack.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/layouts/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layouts/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Main/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.ts" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +75,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/hooks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,6 +92,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/hooks" />
       <recent name="$PROJECT_DIR$/client" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -105,6 +111,12 @@
       <workItem from="1622175970313" duration="241000" />
       <workItem from="1622181364989" duration="1991000" />
       <workItem from="1622185012690" duration="1912000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1622347608085" duration="904000" />
+      <workItem from="1622509889049" duration="534000" />
+      <workItem from="1622942316106" duration="1003000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
